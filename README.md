@@ -1,5 +1,5 @@
 <p align="center">
-<img src='VieRnesBioinfo_MariaSegovia.png' width='200'>
+<img src='VieRnesBioinfo_MariaSegovia.png' width='600'>
 </p>
 
 # Curso: Bases para la inferencia filogenética, construcción, lectura e interpretación de árboles filogenéticos 🐐
