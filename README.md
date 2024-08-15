@@ -1,3 +1,7 @@
+<p align="center">
+<img src='WVieRnesBioinfo_MariaSegovia.png' width='200'>
+</p>
+
 # Curso: Bases para la inferencia filogenética, construcción, lectura e interpretación de árboles filogenéticos 🐐
 
 Instructora: Dra. María Guadalupe Segovia Ramírez.
