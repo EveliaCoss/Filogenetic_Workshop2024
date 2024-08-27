@@ -49,7 +49,7 @@ El curso consta de 8 sesiones teóricas (16 hrs totales) que incluyen revisión 
 - ¿Cómo elegir el mejor marcador molecular?
   * Material: [Sesion 1](https://drive.google.com/drive/folders/1ULsVeJioqVh5AD5uojFJz5u0Bu0EA5KU?usp=sharing)
 
-**Bloque 2 (3 hrs):** 
+### **Bloque 2 (3 hrs):** 
 - ¿Qué es una filogenia?
 - Utilidad y propósito de las filogenias
 - Leyendo el lenguaje filogenético. Alcances y limitaciones de los árboles
@@ -58,7 +58,7 @@ El curso consta de 8 sesiones teóricas (16 hrs totales) que incluyen revisión 
 - Modelos de partición y substitución
 - Reloj molecular: Mitos y realidades
 
-**Bloque 3 (5 hrs):**
+### **Bloque 3 (5 hrs):**
 - Construyendo filogenias
 - Árboles de genes vs árboles de especies
 - Árboles para diferentes propósitos:
@@ -68,7 +68,7 @@ El curso consta de 8 sesiones teóricas (16 hrs totales) que incluyen revisión 
   * Hipótesis a nivel de evolución de loci
   * Demografía y estructura poblacional
 
-**Bloque 4 (5 hrs):**
+### **Bloque 4 (5 hrs):**
 - Métodos y herramientas para la construcción de filogenias
   * Alineamiento con muscle ácidos nucleicos y aminoácidos
   * Elección del modelo partición y substitución
