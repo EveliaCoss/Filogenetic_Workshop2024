@@ -47,6 +47,7 @@ El curso consta de 8 sesiones teóricas (16 hrs totales) que incluyen revisión 
 - Ortólogos, parálogos y xenólogos
 - Tipos y utilidad de los marcadores moleculares
 - ¿Cómo elegir el mejor marcador molecular?
+ - Material: [Sesion 1](https://drive.google.com/drive/folders/1ULsVeJioqVh5AD5uojFJz5u0Bu0EA5KU?usp=sharing)
 
 **Bloque 2 (3 hrs):** 
 - ¿Qué es una filogenia?
