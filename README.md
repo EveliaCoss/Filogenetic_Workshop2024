@@ -6,7 +6,7 @@
 
 > Almacena este curso en tus favoritos, dando click en la estrella 🌟 de la parte superior derecha 😎. 
 
-Instructora: Dra. María Guadalupe Segovia Ramírez.
+Instructora: Dra. María Guadalupe Segovia Ramírez (mariag.sera13@gmail.com). Github: https://github.com/mariasr13
 
 ⭐ **Objetivo general:** Que quienes lo cursen adquieran la capacidad de comprender, interpretar e construir hipótesis filogenéticas (árboles filogenéticos) con marcadores moleculares.
 
