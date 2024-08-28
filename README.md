@@ -48,6 +48,7 @@ El curso consta de 8 sesiones teóricas (16 hrs totales) que incluyen revisión 
 - Tipos y utilidad de los marcadores moleculares
 - ¿Cómo elegir el mejor marcador molecular?
   * Material: [Sesion 1](https://drive.google.com/drive/folders/1ULsVeJioqVh5AD5uojFJz5u0Bu0EA5KU?usp=sharing)
+  * Presentacion: [Bloque 1](https://drive.google.com/file/d/1GdDyQmeJ826-JTosRsIUFLESUyMeXgBP/view?usp=sharing)
   * Video: [Sesion 1 - 27Agosto2024](https://drive.google.com/file/d/1PuvXqUOP87qkW0ipJQfS-5exUYbxVURq/view?usp=sharing)
 
 ### **Bloque 2 (3 hrs):** 
