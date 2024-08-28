@@ -33,9 +33,9 @@ Queremos recordarles que el acceso a la misma es **exclusivo para quienes se reg
 
 Siendo parte de los "VieRnes de Bioinformática en el LIIGH-UNAM (2024)". Se otorgará un diploma a los participantes que cuenten con el 80 % de las asistencias emitido por el LIIGH-UNAM, teniendo como representante a la Dra. Maria Avila.
 
-**ASISTENCIAS:** Utilizaremos una extensión de Google Meet para registrar la asistencia. Esta herramienta registrará automáticamente el *nombre de usuario de Gmail, la hora de entrada y el tiempo que permanezcan en la llamada*. Les pedimos que, antes de la clase, se aseguren de que su nombre de usuario esté actualizado.
-
-Además, les pedimos que, **si no tienen la posibilidad de asistir a la clase completa (2 horas), consideren NO ingresar**, de manera que puedan *ceder su lugar a otra persona que pueda aprovechar la clase en su totalidad*. Queremos asegurarnos de que todos los participantes puedan disfrutar de una experiencia completa y enriquecedora de la mano de la Dra. Maria Segovia. **Respeten el espacio y el tiempo que ella también les proporcione, por favor.**
+> **ASISTENCIAS:** Utilizaremos una extensión de Google Meet para registrar la asistencia. Esta herramienta registrará automáticamente el *nombre de usuario de Gmail, la hora de entrada y el tiempo que permanezcan en la llamada*. Les pedimos que, antes de la clase, se aseguren de que su nombre de usuario esté actualizado.
+> 
+> Además, les pedimos que, **si no tienen la posibilidad de asistir a la clase completa (2 horas), consideren NO ingresar**, de manera que puedan *ceder su lugar a otra persona que pueda aprovechar la clase en su totalidad*. Queremos asegurarnos de que todos los participantes puedan disfrutar de una experiencia completa y enriquecedora de la mano de la Dra. Maria Segovia. **Respeten el espacio y el tiempo que ella también les proporcione, por favor.**
 
 ## Descripción 
 
