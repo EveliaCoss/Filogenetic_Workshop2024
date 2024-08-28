@@ -86,5 +86,7 @@ Conocimientos básicos de genética, evolución y biología molecular.
 
 ## Licencia y términos de uso
 
-Prohibida la reproducción y/o instrucción de este temario y curso sin consentimiento previo del autor.
+Prohibida la reproducción y/o instrucción de este temario y curso sin consentimiento previo del autor. Prohibido lucrar con este curso. 
 
+-------------------
+Cursos hechos con amor 💜
