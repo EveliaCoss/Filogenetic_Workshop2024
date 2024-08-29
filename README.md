@@ -67,6 +67,7 @@ El curso consta de 8 sesiones teóricas (16 hrs totales) que incluyen revisión 
 - Alineamiento de secuencias
 - Modelos de partición y substitución
 - Reloj molecular: Mitos y realidades
+ * Material: [Sesion 2](https://drive.google.com/drive/folders/1rXx1JLbILYxoMVhgxHWDav94sP50E_Uk?usp=sharing)
 
 ### **Bloque 3 (5 hrs):**
 - Construyendo filogenias
