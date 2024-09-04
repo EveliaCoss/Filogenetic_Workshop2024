@@ -68,7 +68,8 @@ El curso consta de 8 sesiones teóricas (16 hrs totales) que incluyen revisión 
 - Modelos de partición y substitución
 - Reloj molecular: Mitos y realidades
  * Material: [Sesion 2](https://drive.google.com/drive/folders/1rXx1JLbILYxoMVhgxHWDav94sP50E_Uk?usp=sharing)
- * Video: [Sesion - 29Agosto2024](https://drive.google.com/file/d/1ukZKWeJ_kU-HkjbM37djuapFlS3ezDP_/view?usp=sharing)
+ * Video: [Sesion 2 - 29Agosto2024](https://drive.google.com/file/d/1ukZKWeJ_kU-HkjbM37djuapFlS3ezDP_/view?usp=sharing)
+ * Video: [Sesion 3 - 29Agosto2024](https://drive.google.com/file/d/1kuHLFi46z9BnOmw2M6dvQWxPqXHg1yVz/view?usp=sharing)
 
 ### **Bloque 3 (5 hrs):**
 - Construyendo filogenias
@@ -79,6 +80,7 @@ El curso consta de 8 sesiones teóricas (16 hrs totales) que incluyen revisión 
   * Estimación del tiempo de divergencia
   * Hipótesis a nivel de evolución de loci
   * Demografía y estructura poblacional
+ 
 
 ### **Bloque 4 (5 hrs):**
 - Métodos y herramientas para la construcción de filogenias
