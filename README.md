@@ -69,6 +69,7 @@ El curso consta de 8 sesiones teóricas (16 hrs totales) que incluyen revisión 
 - Reloj molecular: Mitos y realidades
  * Material: [Sesion 2](https://drive.google.com/drive/folders/1rXx1JLbILYxoMVhgxHWDav94sP50E_Uk?usp=sharing)
  * Video: [Sesion 2 - 29Agosto2024](https://drive.google.com/file/d/1ukZKWeJ_kU-HkjbM37djuapFlS3ezDP_/view?usp=sharing)
+ * Material: [Sesion 3](https://docs.google.com/presentation/d/1p8gPWj4XnFaUFqT2-bHPXdiaqKoHszIC/edit?usp=sharing&ouid=115061201453977266962&rtpof=true&sd=true)
  * Video: [Sesion 3 - 29Agosto2024](https://drive.google.com/file/d/1kuHLFi46z9BnOmw2M6dvQWxPqXHg1yVz/view?usp=sharing)
 
 ### **Bloque 3 (5 hrs):**
