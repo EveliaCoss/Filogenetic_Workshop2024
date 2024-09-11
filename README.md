@@ -78,9 +78,19 @@ El curso consta de 8 sesiones teóricas (16 hrs totales) que incluyen revisión 
 > *Entregable:*
 > 
 > Subir al **OneDrive el Jueves 12 de septiembre**, el link se te enviara por correo. 
-> Intruccion: A partir del script [aln_msa.R](https://drive.google.com/file/d/11q_wjWakNXEhqZ69prw8YAyRY-7Lcn0O/view?usp=sharing) realiza alineamientos empleando el archivo
-> [finches_cytb.fasta](https://drive.google.com/file/d/1D-rWSo_JzL5f5crVG3rJyZzrCLys4cN9/view?usp=sharing) .... (falta mas info de Mari :D) (cargando)
-
+> Intruccion: El material consta de 1 archivo multifasta con secuencias de un locus ([finches_cytb.fasta](https://drive.google.com/file/d/1D-rWSo_JzL5f5crVG3rJyZzrCLys4cN9/view?usp=sharing)) y un script para alinear las secuencias ([aln_msa.R](https://drive.google.com/file/d/11q_wjWakNXEhqZ69prw8YAyRY-7Lcn0O/view?usp=sharing)), calcular la matriz de distancia genética y exportar los archivos.
+> El multifasta es el input para el script. El script contiene las librerías de R necesarias y está documentado. sólo debes ejecutarlo con R.
+> 
+> Recuerda que debes:
+>	a) Cambiar la ubicación local a donde se encuentran tus archivos (el multifasta).
+> b) Cambiar el método de alineamiento (eg Clustal por Muscle) así como los valores de sus parámetros (máximo de iteraciones, los gaps, el orden, etc).
+>	c) Si te es posible usa un set de secuencias de tu interés.
+>	d) msa contiene bastantes funciones, así que explora lo que gustes.
+>	e) Remueve algunas secuencias del multifasta y vuelve a alinearlas. 
+>	f) Escribe en no más de 300 palabras cuales diferencias observaste entre los métodos de alineamiento (como se agruparon, si cambió la matriz?, etc.)
+> 	g) Responde brevemente las siguientes preguntas: Cuáles son los métodos de alineamiento que conoces?; cuál te parece el mejor?; por qué?
+>
+> NOTA: Por favor se muy muy curioso.
 
 ### **Bloque 3 (5 hrs):**
 - Construyendo filogenias
