@@ -75,6 +75,13 @@ El curso consta de 8 sesiones teóricas (16 hrs totales) que incluyen revisión 
   * Presentacion: [Sesion 4](https://docs.google.com/presentation/d/1k-3-wZ35iT9RA0LBNMLglKFRZ09fKD0Q/edit?usp=sharing&ouid=115061201453977266962&rtpof=true&sd=true)
   * Video: Sesion 4 - 9Sep2024
 
+> *Entregable:*
+> 
+> Subir al **OneDrive el Jueves 12 de septiembre**, el link se te enviara por correo. 
+> Intruccion: A partir del script [aln_msa.R](https://drive.google.com/file/d/11q_wjWakNXEhqZ69prw8YAyRY-7Lcn0O/view?usp=sharing) realiza alineamientos empleando el archivo
+> [finches_cytb.fasta](https://drive.google.com/file/d/1D-rWSo_JzL5f5crVG3rJyZzrCLys4cN9/view?usp=sharing) .... (falta mas info de Mari :D) (cargando)
+
+
 ### **Bloque 3 (5 hrs):**
 - Construyendo filogenias
 - Árboles de genes vs árboles de especies
