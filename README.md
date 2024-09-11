@@ -69,9 +69,10 @@ El curso consta de 8 sesiones teóricas (16 hrs totales) que incluyen revisión 
 - Reloj molecular: Mitos y realidades
   * Material: [Sesion 2](https://drive.google.com/drive/folders/1rXx1JLbILYxoMVhgxHWDav94sP50E_Uk?usp=sharing)
   * Video: [Sesion 2 - 29Agosto2024](https://drive.google.com/file/d/1ukZKWeJ_kU-HkjbM37djuapFlS3ezDP_/view?usp=sharing)
-  * Material: [Sesion 3](https://docs.google.com/presentation/d/1p8gPWj4XnFaUFqT2-bHPXdiaqKoHszIC/edit?usp=sharing&ouid=115061201453977266962&rtpof=true&sd=true)
+  * Presentacion: [Sesion 3](https://docs.google.com/presentation/d/1p8gPWj4XnFaUFqT2-bHPXdiaqKoHszIC/edit?usp=sharing&ouid=115061201453977266962&rtpof=true&sd=true)
   * Video: [Sesion 3 - 29Agosto2024](https://drive.google.com/file/d/1kuHLFi46z9BnOmw2M6dvQWxPqXHg1yVz/view?usp=sharing)
-  * Material: [Sesion 4](https://docs.google.com/presentation/d/1k-3-wZ35iT9RA0LBNMLglKFRZ09fKD0Q/edit?usp=sharing&ouid=115061201453977266962&rtpof=true&sd=true)
+  * Material: [Sesion 4](https://drive.google.com/drive/folders/1Dv7ZLFauvWaKZfzYDH1qJ0aBTKaOAgxa?usp=sharing)
+  * Presentacion: [Sesion 4](https://docs.google.com/presentation/d/1k-3-wZ35iT9RA0LBNMLglKFRZ09fKD0Q/edit?usp=sharing&ouid=115061201453977266962&rtpof=true&sd=true)
   * Video: Sesion 4 - 9Sep2024
 
 ### **Bloque 3 (5 hrs):**
