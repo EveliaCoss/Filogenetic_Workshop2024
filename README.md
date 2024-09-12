@@ -57,7 +57,7 @@ El curso consta de 8 sesiones teóricas (16 hrs totales) que incluyen revisión 
 - ¿Cómo elegir el mejor marcador molecular?
   * Material: [Sesion 1](https://drive.google.com/drive/folders/1ULsVeJioqVh5AD5uojFJz5u0Bu0EA5KU?usp=sharing)
   * Presentacion: [Bloque 1](https://drive.google.com/file/d/1GdDyQmeJ826-JTosRsIUFLESUyMeXgBP/view?usp=sharing)
-  * Video: [Sesion 1 - 27Agosto2024](https://drive.google.com/file/d/1PuvXqUOP87qkW0ipJQfS-5exUYbxVURq/view?usp=sharing)
+  * Grabación: [Sesion 1 - 27Agosto2024](https://drive.google.com/file/d/1PuvXqUOP87qkW0ipJQfS-5exUYbxVURq/view?usp=sharing)
 
 ### **Bloque 2 (3 hrs):** 
 - ¿Qué es una filogenia?
@@ -68,12 +68,13 @@ El curso consta de 8 sesiones teóricas (16 hrs totales) que incluyen revisión 
 - Modelos de partición y substitución
 - Reloj molecular: Mitos y realidades
   * Material: [Sesion 2](https://drive.google.com/drive/folders/1rXx1JLbILYxoMVhgxHWDav94sP50E_Uk?usp=sharing)
-  * Video: [Sesion 2 - 29Agosto2024](https://drive.google.com/file/d/1ukZKWeJ_kU-HkjbM37djuapFlS3ezDP_/view?usp=sharing)
+  * Grabación: [Sesion 2 - 29Agosto2024](https://drive.google.com/file/d/1ukZKWeJ_kU-HkjbM37djuapFlS3ezDP_/view?usp=sharing)
   * Presentacion: [Sesion 3](https://docs.google.com/presentation/d/1p8gPWj4XnFaUFqT2-bHPXdiaqKoHszIC/edit?usp=sharing&ouid=115061201453977266962&rtpof=true&sd=true)
-  * Video: [Sesion 3 - 29Agosto2024](https://drive.google.com/file/d/1kuHLFi46z9BnOmw2M6dvQWxPqXHg1yVz/view?usp=sharing)
+  * Grabación: [Sesion 3 - 29Agosto2024](https://drive.google.com/file/d/1kuHLFi46z9BnOmw2M6dvQWxPqXHg1yVz/view?usp=sharing)
   * Material: [Sesion 4](https://drive.google.com/drive/folders/1Dv7ZLFauvWaKZfzYDH1qJ0aBTKaOAgxa?usp=sharing)
   * Presentacion: [Sesion 4](https://docs.google.com/presentation/d/1k-3-wZ35iT9RA0LBNMLglKFRZ09fKD0Q/edit?usp=sharing&ouid=115061201453977266962&rtpof=true&sd=true)
-  * Video: [Sesion 4 - 9Sep2024](https://drive.google.com/file/d/16NWVFNShakZVxRjYhdhKKFq20GQcRZgN/view?usp=sharing)
+  * Grabación: [Sesion 4 - 9Sep2024](https://drive.google.com/file/d/16NWVFNShakZVxRjYhdhKKFq20GQcRZgN/view?usp=sharing)
+  * Grabación: Sesion 5 - 12Sep2024
 
 > *Entregable:*
 > 
