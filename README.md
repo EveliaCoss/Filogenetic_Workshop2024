@@ -71,10 +71,6 @@ El curso consta de 8 sesiones teóricas (16 hrs totales) que incluyen revisión 
   * Grabación: [Sesion 2 - 29Agosto2024](https://drive.google.com/file/d/1ukZKWeJ_kU-HkjbM37djuapFlS3ezDP_/view?usp=sharing)
   * Presentacion: [Sesion 3](https://docs.google.com/presentation/d/1p8gPWj4XnFaUFqT2-bHPXdiaqKoHszIC/edit?usp=sharing&ouid=115061201453977266962&rtpof=true&sd=true)
   * Grabación: [Sesion 3 - 29Agosto2024](https://drive.google.com/file/d/1kuHLFi46z9BnOmw2M6dvQWxPqXHg1yVz/view?usp=sharing)
-  * Material: [Sesion 4](https://drive.google.com/drive/folders/1Dv7ZLFauvWaKZfzYDH1qJ0aBTKaOAgxa?usp=sharing)
-  * Presentacion: [Sesion 4](https://docs.google.com/presentation/d/1k-3-wZ35iT9RA0LBNMLglKFRZ09fKD0Q/edit?usp=sharing&ouid=115061201453977266962&rtpof=true&sd=true)
-  * Grabación: [Sesion 4 - 9Sep2024](https://drive.google.com/file/d/16NWVFNShakZVxRjYhdhKKFq20GQcRZgN/view?usp=sharing)
-  * Grabación: [Sesion 5 - 12Sep2024](https://drive.google.com/file/d/1ytpzf8N7P8RXwSbe5UEx9-KQDucdTvr-/view?usp=sharing)
 
 > *Entregable:*
 > 
@@ -102,7 +98,10 @@ El curso consta de 8 sesiones teóricas (16 hrs totales) que incluyen revisión 
   * Estimación del tiempo de divergencia
   * Hipótesis a nivel de evolución de loci
   * Demografía y estructura poblacional
- 
+     + Material: [Sesion 4](https://drive.google.com/drive/folders/1Dv7ZLFauvWaKZfzYDH1qJ0aBTKaOAgxa?usp=sharing)
+     + Presentacion: [Sesion 4](https://docs.google.com/presentation/d/1k-3-wZ35iT9RA0LBNMLglKFRZ09fKD0Q/edit?usp=sharing&ouid=115061201453977266962&rtpof=true&sd=true)
+     + Grabación: [Sesion 4 - 9Sep2024](https://drive.google.com/file/d/16NWVFNShakZVxRjYhdhKKFq20GQcRZgN/view?usp=sharing)
+     + Grabación: [Sesion 5 - 12Sep2024](https://drive.google.com/file/d/1ytpzf8N7P8RXwSbe5UEx9-KQDucdTvr-/view?usp=sharing)
 
 ### **Bloque 4 (5 hrs):**
 - Métodos y herramientas para la construcción de filogenias
