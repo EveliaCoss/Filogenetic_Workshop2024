@@ -87,6 +87,9 @@ El curso consta de 8 sesiones teóricas (16 hrs totales) que incluyen revisión 
      + Grabación: [Sesion 5 - 12Sep2024](https://drive.google.com/file/d/1ytpzf8N7P8RXwSbe5UEx9-KQDucdTvr-/view?usp=sharing)
      + Presentación: [Sesion 6](https://docs.google.com/presentation/d/1_CQ9IGZqeCd33WidNPmNYB8nDZjYrSCV/edit#slide=id.g301db987076_0_6)
      + Grabación: [Sesion 6 - 20Sep2024](https://drive.google.com/file/d/184CVVkdSFd6hnmV0HM4V_8togO2KmfYj/view?usp=sharing)
+     + Presentación: [Sesion 7](https://docs.google.com/presentation/d/1jzbxw0Iz9hz9nG6REPRY4Uf1rZaeU5xM/edit?usp=sharing&ouid=115061201453977266962&rtpof=true&sd=true)
+     + Material: [Sesion 7](https://drive.google.com/drive/folders/1wufTgx3K3nc1b_CJybdKdPEX1RlzM-b0?usp=sharing)
+     + Grabación:Sesion 7
 
 > *Entregable:*
 > 
