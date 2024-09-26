@@ -117,7 +117,7 @@ El curso consta de 8 sesiones teóricas (16 hrs totales) que incluyen revisión 
   * Astrid y Astral y el uso del coalescente.
      + Presentación: [Sesion 7](https://docs.google.com/presentation/d/1jzbxw0Iz9hz9nG6REPRY4Uf1rZaeU5xM/edit?usp=sharing&ouid=115061201453977266962&rtpof=true&sd=true)
      + Material: [Sesion 7](https://drive.google.com/drive/folders/1wufTgx3K3nc1b_CJybdKdPEX1RlzM-b0?usp=sharing)
-     + Grabación:Sesion 7
+     + Grabación: [Sesion 7](https://drive.google.com/file/d/172cYnwxmAPVHQ0LXbAvraA9xfQdU_jIK/view?usp=sharing)
 
 ## Requisitos
 
