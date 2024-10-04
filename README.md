@@ -123,7 +123,7 @@ Carpeta con todo el material del curso [aqui](https://drive.google.com/drive/fol
      + Material: [Sesion 8](https://drive.google.com/drive/folders/123PBpJnpTIFhzBAoOw78qw5heVbbC2vf?usp=sharing)
      + Grabación: [Sesion 8](https://drive.google.com/drive/folders/1TKBooqueSh8mRnJWF1M3DRN6wevtKrLL?usp=sharing)
      + Material: [Sesion 9](https://drive.google.com/drive/folders/1EqfGO-lERRRTXhLJbQJBsSxLoJ5Crk3I?usp=sharing)
-     + Grabación: Sesion 9
+     + Grabación: [Sesion 9](https://drive.google.com/file/d/1mYXC5mRxUqTlLWwo8T5rb9UpGX-7arWg/view?usp=sharing)
      + Instalacion de [Git bash](https://miguel-mx.github.io/2024-01-24-ccm-unam-swc/) para Windows.
 
 ## Requisitos
