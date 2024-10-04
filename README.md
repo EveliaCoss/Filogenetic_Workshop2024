@@ -121,6 +121,9 @@ Carpeta con todo el material del curso [aqui](https://drive.google.com/drive/fol
      + Material: [Sesion 7](https://drive.google.com/drive/folders/1wufTgx3K3nc1b_CJybdKdPEX1RlzM-b0?usp=sharing)
      + Grabación: [Sesion 7](https://drive.google.com/file/d/172cYnwxmAPVHQ0LXbAvraA9xfQdU_jIK/view?usp=sharing)
      + Material: [Sesion 8](https://drive.google.com/drive/folders/123PBpJnpTIFhzBAoOw78qw5heVbbC2vf?usp=sharing)
+     + Grabación: [Sesion 8](https://drive.google.com/drive/folders/1TKBooqueSh8mRnJWF1M3DRN6wevtKrLL?usp=sharing)
+     + Material: [Sesion 9](https://drive.google.com/drive/folders/1EqfGO-lERRRTXhLJbQJBsSxLoJ5Crk3I?usp=sharing)
+     + Grabación: Sesion 9
 
 ## Requisitos
 
