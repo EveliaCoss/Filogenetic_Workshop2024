@@ -49,6 +49,8 @@ El curso consta de 8 sesiones teóricas (16 hrs totales) que incluyen revisión 
 
 ## Contenido 📌
 
+Carpeta con todo el material del curso [aqui](https://drive.google.com/drive/folders/1fOilP7Mmd0L-ww5ZfdmcZOZxs55dx3Eg?usp=sharing&authuser=1).
+
 ### **Bloque 1 (3 hrs):**
 - Tasa de mutación y tasa de substitución
 - Marcadores moleculares
@@ -118,6 +120,7 @@ El curso consta de 8 sesiones teóricas (16 hrs totales) que incluyen revisión 
      + Presentación: [Sesion 7](https://docs.google.com/presentation/d/1jzbxw0Iz9hz9nG6REPRY4Uf1rZaeU5xM/edit?usp=sharing&ouid=115061201453977266962&rtpof=true&sd=true)
      + Material: [Sesion 7](https://drive.google.com/drive/folders/1wufTgx3K3nc1b_CJybdKdPEX1RlzM-b0?usp=sharing)
      + Grabación: [Sesion 7](https://drive.google.com/file/d/172cYnwxmAPVHQ0LXbAvraA9xfQdU_jIK/view?usp=sharing)
+     + Material: [Sesion 8](https://drive.google.com/drive/folders/123PBpJnpTIFhzBAoOw78qw5heVbbC2vf?usp=sharing)
 
 ## Requisitos
 
